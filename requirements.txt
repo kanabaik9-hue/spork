@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+lxml
+spacy
+datasketch
+sentence-transformers
+numpy
+fastapi
+uvicorn
